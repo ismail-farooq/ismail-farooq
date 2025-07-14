@@ -1,6 +1,6 @@
 # Hi there, I'm Ismail 👋
 
-🎓 I'm a Computer Science student at **Rutgers University** with a passion for building, solving, and learning.
+🎓 I'm a Computer Science student at **Rutgers, The State University of New Jersey - New Brunswick** with a passion for building, solving, and learning.
 
 💻 I enjoy:
 - Writing code and building projects
