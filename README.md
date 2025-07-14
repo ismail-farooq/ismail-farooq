@@ -14,15 +14,20 @@
 - System design and backend engineering
 
 🛠️ Tech Stack:
-- Languages: Python, C++, JavaScript
-- Tools: Git, VS Code, Linux
-- Areas of Interest: AI, Full-stack development, Problem Solving
+
+**Languages:**  
+Java, Python, C++, TypeScript, JavaScript, SQL, HTML, CSS
+
+**Frameworks & Libraries:**  
+React, Vue, Angular, Node.js, Vite, Three.js, Flask, Django
+
+- Areas of Interest: AI/ML, NLP, Full-stack development
 
 📈 I'm always looking to grow and collaborate on cool projects!
 
 Let's connect:
-- 🌐 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ismail-omer-farooq/))
-- 🔗 [My Wesbite]([https://ismailfarooq.vercel.app/))
+- 🌐 [LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ismail-omer-farooq/)
+- 🔗 [My Wesbite](https://ismailfarooq.vercel.app/)
 - 📫 Reach me at: *ismail.omer.farooq@gmail.com*
 
 ---
