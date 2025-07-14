@@ -15,8 +15,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-omer-farooq/)
-[![My Website](https://img.shields.io/badge/My-Website-blue)](https://ismailfarooq.vercel.app/)
+<a href="https://linkedin.com/in/ismail-omer-farooq/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>[![My Website](https://img.shields.io/badge/My-Website-blue)](https://ismailfarooq.vercel.app/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/HollowWinter427)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismail.omer.farooq@gmail.com) 
 
