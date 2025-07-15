@@ -13,7 +13,7 @@
 - AI/ML fundamentals
 - System design and backend engineering
 
-📈 **Starting now, I'm committing to daily contributions**  whether it's code, documentation, or learning because consistency builds mastery
+📈 **Starting 14th July '25, I'm committing to daily contributions**  whether it's code, documentation, or learning because consistency builds mastery
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-omer-farooq/)
